@@ -1,1 +1,1 @@
-{"presets":{"parameter_presets":["RCM_V4_6motor.json","RCM_V4_4motor.json","Alfredo_NoU2.json"],"config_presets":["RCM_V4_6motor.json","RCM_V4_4motor.json","Alfredo_NoU2.json"]}}
+{"presets":{"config_presets":["RCM_BYTE.json","RCM_Nibble.json"],"parameter_presets":["RCM_BYTE.json","RCM_Nibble.json"]}}
