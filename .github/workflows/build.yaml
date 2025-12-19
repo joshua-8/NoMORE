@@ -31,9 +31,11 @@ jobs:
             pio pkg install -g -t platformio/tool-mkspiffs
       - name: compile
         run: |
+            cd extras/src
             pio run
       - name: buildfs
         run: |
+            cd extras/src
             pio run --target buildfs
       - name: copy
         run: |
